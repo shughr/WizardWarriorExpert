@@ -11,7 +11,7 @@ Challenges are overcome either by creative thinking on the part of the player or
 ---
 ## Attributes
 
-Players roll `3d6` three times, assigning the sum of the three dice rolled to each of the three prime attributes, in whichever order they prefer. If an `18` is rolled, subtract three from the next roll (minimum score is 3) and if a `3` is rolled, add three to the next roll (maximum score is `18`). If a `3` or an `18` is rolled for the final attribute, adjust the highest or lowest previous score by three, towards the average. Each attribute will have a score (ranging between 3 and 18) and a bonus (ranging between -3 and +3). The three attributes are **MIND**,** BODY**, and **SPIRIT**. A chart containing the pluses and bonuses is below:
+Players roll `3d6` three times, assigning the sum of the three dice rolled to each of the three prime attributes, in whichever order they prefer. If an `18` is rolled, subtract three from the next roll (minimum score is 3) and if a `3` is rolled, add three to the next roll (maximum score is `18`). If a `3` or an `18` is rolled for the final attribute, adjust the highest or lowest previous score by three, towards the average. Each attribute will have a score (ranging between 3 and 18) and a bonus (ranging between -3 and +3). The three attributes are **MIND**,**BODY**, and **SPIRIT**. A chart containing the pluses and bonuses is below:
 
 | Score |Bonus|
 |------ |-----|
